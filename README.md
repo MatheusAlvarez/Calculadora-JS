@@ -6,7 +6,7 @@
 
 https://matheusalvarez.github.io/Calculadora-JS/
 
-Calculadora desenvolvida em HTML, CSS e JavaScript
+O projeto é uma calculadora desenvolvida em HTML, CSS e JavaScript
 
 ## Layout
 ![Cal1](https://github.com/MatheusAlvarez/Calculadora-JS/blob/main/_assets/Cal.PNG)
