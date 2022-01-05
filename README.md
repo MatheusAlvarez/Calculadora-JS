@@ -18,6 +18,6 @@ O projeto é uma calculadora desenvolvida em HTML, CSS e JavaScript
 
 # Autor
 
-Matheus Maia Alvarez
+Matheus Maia Alvarez 
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
